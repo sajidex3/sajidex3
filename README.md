@@ -9,7 +9,7 @@ I enjoy building tools that improve real systems — from financial aid workflow
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, SQL, Kotlin, VBA  
+**Languages:** Python, SQL, Kotlin, VBA, HTML/CSS
 **Data Tools:** Pandas, Plotly, Random Forest, Power BI  
 **Automation:** Excel VBA, CRM workflows, API testing, Zapier, Power Automate
 
