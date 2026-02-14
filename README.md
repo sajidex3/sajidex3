@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sajid 👋
 
-<!--
-**sajidex3/sajidex3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Software Development student at Villa Maria College  
+Focused on Python, SQL, automation, and data-driven decision making.
 
-Here are some ideas to get you started:
+I enjoy building tools that improve real systems — from financial aid workflows to data dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, Kotlin, VBA  
+**Data Tools:** Pandas, Plotly, Random Forest, Power BI  
+**Automation:** Excel VBA, CRM workflows, API testing, Zapier, Power Automate
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Bike Sharing Demand Prediction
+Machine learning model predicting hourly bike rentals using Random Forest.
+- Tech: Python, Pandas, Scikit-learn
+- Includes EDA, feature engineering, and model evaluation
+
+### 🧾 Financial Aid Process Automation
+Excel VBA automation to streamline student account reconciliation.
+- Tech: VBA, Excel, SQL logic
+- Reduced manual processing time
+
+---
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/sajid-hussain-55611370
+Email: sajidex3@gmail.com
+
