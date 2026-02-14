@@ -22,11 +22,6 @@ Machine learning model predicting hourly bike rentals using Random Forest.
 - Tech: Python, Pandas, Scikit-learn
 - Includes EDA, feature engineering, and model evaluation
 
-### 🧾 Financial Aid Process Automation
-Excel VBA automation to streamline student account reconciliation.
-- Tech: VBA, Excel, SQL logic
-- Reduced manual processing time
-
 ---
 
 ## 📫 Connect With Me
