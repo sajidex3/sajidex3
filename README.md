@@ -27,4 +27,6 @@ Machine learning model predicting hourly bike rentals using Random Forest.
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/sajid-hussain-55611370
 Email: sajidex3@gmail.com
+**Resume:** [View My Master Resume](https://docs.google.com/document/d/1v9agN6vhregveRdG8qTkowYnUv2gc-Aa/edit?usp=sharing&ouid=112009000754845355926&rtpof=true&sd=true)  
+
 
